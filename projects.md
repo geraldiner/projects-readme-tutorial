@@ -10,6 +10,6 @@ Check out other stuff I've worked on:
 
 **K.K. Radio:** https://github.com/geraldiner/kk-radio
 
-**Interactive Piano:** https://github.com/geraldiner/piano
-
 **Pom Poko Pomodoro App:** https://github.com/geraldiner/pom-poko-pomodoro
+
+**Interactive Piano:** https://github.com/geraldiner/piano
