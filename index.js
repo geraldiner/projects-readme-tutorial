@@ -10,7 +10,7 @@ async function updateAllRepos() {
 			sort: "updated",
 			per_page: "100",
 		});
-		const repos = res.data.filter(r => r.name !== "geraldiner" && r.name !== "projects-readme");
+		const repos = res.data.filter(r => r.name !== "geraldiner" && r.name !== "projects-readme" && r.name !== "projects-readme-tutorial");
 		for (let i = 0; i < repos.length; i++) {
 			const { name } = repos[i];
 			updateReadMe(name);
