@@ -9,7 +9,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT License",
   "dependencies": {
     "@octokit/core": "^3.5.1",
     "dotenv": "^10.0.0",
