@@ -7,6 +7,7 @@ A workflow for updating the README file in all your repositories. This is especi
 
 There is a tutorial to go with it if you'd like to implement it yourself on [dev.to](https://dev.to/geraldiner/how-to-set-up-a-github-action-to-update-the-readme-file-in-all-your-github-repositories-4epj) and [Hashnode](https://blog.geraldiner.com/github-action-update-readmes-tutorial).
 
+
 ## Other Projects
 
 Check out other stuff I've worked on:
@@ -29,4 +30,4 @@ Let's talk about self-taught programming, experience design, (computer science) 
 
 **Email**: hello [at] geraldiner [dot] com
 
-I'm also looking for new Full-Stack or Front-End opportunities, so please reach out if you'd like to work together!
+Currently working full-time at <a target="_blank" href="https://nomnomnow.com">Nom Nom</a>, but always open to any cool, interesting projects!
