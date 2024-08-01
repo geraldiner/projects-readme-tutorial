@@ -9,26 +9,28 @@ There is a tutorial to go with it if you'd like to implement it yourself on [dev
 
 
 
+
 ## Other Projects
 
 Check out other stuff I've worked on:
 
+**Secret Santa App**: https://github.com/geraldiner/secret-santa-app
+
 **Minute To Win It Games API & Wiki**: https://github.com/geraldiner/min-to-win
 
-**Rehabitter:** https://github.com/geraldiner/rehabitter
+## Currently I'm:
 
-**Snapchat Clone:** https://github.com/geraldiner/snapchat-clone
+- Working full-time at <a target="_blank" href="https://nomnomnow.com">Nom Nom</a>, migrating JavaScript to TypeScript
+- Building my brand, <a target="_blank" href="https://happiandco.com">Happi & Co. Studio LLC</a>
 
-**K.K. Radio:** https://github.com/geraldiner/kk-radio
+But I'm always open to hearing about your next big thing!
 
-## Let's Connect!
+## Let's get to know each other!
 
-Let's talk about self-taught programming, experience design, (computer science) education, and/or Animal Crossing:
+Connect with me:
 
 **Twitter**: [@GeraldineDesu](https://twitter.com/geraldinedesu)
 
 **LinkedIn**: [in/GeraldineR](https://linkedin.com/in/geraldiner)
 
 **Email**: hello [at] geraldiner [dot] com
-
-Currently working full-time at <a target="_blank" href="https://nomnomnow.com">Nom Nom</a>, but always open to any cool, interesting projects!
