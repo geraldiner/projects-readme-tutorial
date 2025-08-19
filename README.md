@@ -14,27 +14,33 @@ There is a tutorial to go with it if you'd like to implement it yourself on [dev
 
 
 
+
 ## Other Projects
 
 Check out other stuff I've worked on:
 
-**Secret Santa App**: https://github.com/geraldiner/secret-santa-app
+**Nook Radio**: https://github.com/geraldiner/nook-radio
+
+**ACNH API**: https://github.com/geraldiner/acnh-api
 
 **Minute To Win It Games API & Wiki**: https://github.com/geraldiner/min-to-win
 
-## Currently I'm:
+## Currently I'm
 
-- Working full-time at <a target="_blank" href="https://nomnomnow.com">Nom Nom</a>, migrating JavaScript to TypeScript
-- Building my brand, <a target="_blank" href="https://happiandco.com">Happi & Co. Studio LLC</a>
+- Working full-time as a Software Engineer at <a target="_blank" href="https://nomnomnow.com">Nom Nom</a>.
+- Challenging myself to crochet through my yarn stash before buying more. 🤠
+  - Kind of already failed when I bought the Woobles LOTR Collector's Edition. 😅 But I haven't bought anything since!
 
-But I'm always open to hearing about your next big thing!
+But I'm always open to hearing about _your_ next big thing!
 
 ## Let's get to know each other!
 
-Connect with me:
-
-**Twitter**: [@GeraldineDesu](https://twitter.com/geraldinedesu)
+**Website**: [geraldiner.com](https://geraldiner.com)
 
 **LinkedIn**: [in/GeraldineR](https://linkedin.com/in/geraldiner)
 
-**Email**: hello [at] geraldiner [dot] com
+**GitHub (You are here)**: [@geraldiner](https://github.com/geraldiner)
+
+**Sometimes I write**: [@geraldiner](https://geraldiner.hashnode.dev)
+
+**Resume**: [Click here for a PDF](https://geraldiner.com/GeraldineRagsac_Resume_2025.pdf)
