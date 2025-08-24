@@ -15,21 +15,21 @@ There is a tutorial to go with it if you'd like to implement it yourself on [dev
 
 
 
+
 ## Other Projects
 
 Check out other stuff I've worked on:
 
-**Nook Radio**: https://github.com/geraldiner/nook-radio
+**Nook Music**: https://github.com/geraldiner/nook-music
 
-**ACNH API**: https://github.com/geraldiner/acnh-api
+**Animal Crossing API**: https://github.com/geraldiner/ac-api
 
 **Minute To Win It Games API & Wiki**: https://github.com/geraldiner/min-to-win
 
 ## Currently I'm
 
 - Working full-time as a Software Engineer at <a target="_blank" href="https://nomnomnow.com">Nom Nom</a>.
-- Challenging myself to crochet through my yarn stash before buying more. 🤠
-  - Kind of already failed when I bought the Woobles LOTR Collector's Edition. 😅 But I haven't bought anything since!
+- Challenging myself to crochet through my yarn stash before buying more. 🤠 Check out what I'm making on [Instagram](https://instagram.com/geraldinedesu)!
 
 But I'm always open to hearing about _your_ next big thing!
 
